@@ -1,4 +1,4 @@
-# MSKBD - Modular Simple KeyBoarD
+# MSKBD - Modularly Simple KeyBoarD
 
 > [!WARNING]  
 > This is the inital commit for this project just to fill in the repo with contents - If you want to see progress being made in the project you might want to see the `dev` branch. All progess is made there before a stable version is ready :)
