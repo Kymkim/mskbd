@@ -30,7 +30,7 @@ main              # Stable, production-ready code (only tested & reviewed change
 ├─ hotfix/        # Quick fixes for urgent bugs in main
 │   └─ hotfix/usb-detection
 │
-└─ docs/          # Documentation updates (can also just use feature/docs-*)
+└─ docs/          # Documentation updates
     └─ docs/protocol-update
 ```
 
