@@ -11,6 +11,7 @@ A customizable modular keyboard system where each key cluster is its own module,
 - ⚡ **Hotplug detection** — modules can be discovered dynamically
 
 ## Repo Structure
+
 firmware/ - Embedded code for the core system
 hardware/ - Schematics and PCB layouts
 software/ - Host tools (keymap editor, etc.) (not yet implemented - soon hopefully!)
