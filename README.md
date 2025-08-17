@@ -24,9 +24,9 @@ A customizable modular keyboard system where each key cluster is its own module,
 main              # Stable, production-ready code (only tested & reviewed changes go here)
 │
 ├─ dev            # Integration branch for features; "staging" area before merging to main
-│  ├─ feature-1     # New features, experiments, improvements, or PCB uploads     
-│  ├─ feature-2
-│  └─ hardware1
+│  ├─ software-stuff      # New features, experiments, improvements, or PCB uploads     
+│  ├─ software-numpad     # Please indicate in the branch if its software or hardware if needed
+│  └─ hardware-numpad
 │
 ├─ hotfix/        # Quick fixes for urgent bugs in main
 │   └─ hotfix/usb-detection
